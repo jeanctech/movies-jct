@@ -4,10 +4,10 @@ function App_Aside1() {
   return (
     <>
       <div
-      className="m-1 p-1 bg-[#383737] text-[#f8f8f8] flex flex-[80%] flex-col justify-start items-baseline rounded-lg">
+        className="m-1 p-1 bg-[#383737] text-[#f8f8f8] flex flex-[80%] flex-col justify-start items-baseline rounded-lg">
         <div>
           <ul
-          className="m-1 p-1 flex flex-row justify-center items-center flex-wrap">
+            className="m-1 p-1 flex flex-row justify-center items-center flex-wrap">
             <a href="https://reactjs.dev">
               <img
                 src="https://pelisimg.online/cover/el-juego-bonito.jpg" id="img"

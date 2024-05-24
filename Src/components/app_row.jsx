@@ -4,7 +4,7 @@ function App_Row() {
   return (
     <>
       <div
-      className="m-1 p-1 bg-[#383737] text-[#d7dae0] flex flex-[20%] justify-center items-center rounded-lg">
+        className="m-1 p-1 bg-[#383737] text-[#d7dae0] flex flex-[20%] justify-center items-center rounded-lg">
         <div className="m-0 p-0 flex flex-col justify-center items-center ">
           <h2 className="m-1 p-1 flex flex-row justify-center items-center font-bold ">
             Estrenos

@@ -4,9 +4,9 @@ function App_Nav() {
   return (
     <>
       <div
-      className="m-0.5 p-0.5 flex flex-col flex-[50%] justify-between items-center">
+        className="m-0.5 p-0.5 flex flex-col flex-[50%] justify-between items-center">
         <ul
-        className="m-1 p-1 flex flex-row justify-center items-center bg-[#2b2727] text-slate-300 rounded-lg">
+          className="m-1 p-1 flex flex-row justify-center items-center bg-[#2b2727] text-slate-300 rounded-lg">
           <li className="m-1 p-1 cursor-pointer hover:bg-[#423f3f] rounded-lg">
             Inicio
           </li>{" "}
@@ -28,7 +28,7 @@ function App_Nav() {
           </li>
         </ul>
         <label
-        className="m-1.5 p-1.5 flex flex-row justify-center items-center bg-[#242121] text-slate-300 rounded-lg border-0">
+          className="m-1.5 p-1.5 flex flex-row justify-center items-center bg-[#242121] text-slate-300 rounded-lg border-0">
           <input
             id="app_nav_search" type="search"
             placeholder="Escribe Aqui"

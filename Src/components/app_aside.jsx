@@ -5,7 +5,7 @@ function App_Aside() {
   return (
     <>
       <div
-      className="m-1 p-1 bg-[#383737] text-[#f8f8f8] flex flex-[80%] flex-col justify-start items-baseline rounded-lg">
+        className="m-1 p-1 bg-[#383737] text-[#f8f8f8] flex flex-[80%] flex-col justify-start items-baseline rounded-lg">
         <p className="m-1.5 p-1.5 text-balance">
           Pelisplus es un sitio ideal para ver películas y series online.
           Nuestro sistema se preocupa por tener lo último del cine en calidad
@@ -18,18 +18,18 @@ function App_Aside() {
         </p>
         <div>
           <div
-          className="m-2.5 mr-20 ml-20 flex flex-row justify-between items-center">
+            className="m-2.5 mr-20 ml-20 flex flex-row justify-between items-center">
             <h3
-            className="m-1.5 p-1.5 font-500 flex flex-row flex-start bg-[#555252] text-[#d7dae0] rounded-lg">
+              className="m-1.5 p-1.5 font-500 flex flex-row flex-start bg-[#555252] text-[#d7dae0] rounded-lg">
               Vistas
             </h3>
             <span
-            className="m-1.5 p-1.5 font-500 flex flex-row flex-end bg-[#535050] text-[#d7dae0] rounded-lg">
+              className="m-1.5 p-1.5 font-500 flex flex-row flex-end bg-[#535050] text-[#d7dae0] rounded-lg">
               Ver Todo
             </span>
           </div>
           <ul
-          className="m-1 p-1 flex flex-row justify-center items-center flex-wrap">
+            className="m-1 p-1 flex flex-row justify-center items-center flex-wrap">
             <a href="https://reactjs.dev">
               <img
                 src="https://pelisimg.online/cover/blue-beetle-1692423798.png" id="img"
