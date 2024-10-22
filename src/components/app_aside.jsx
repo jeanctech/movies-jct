@@ -4,24 +4,23 @@ import "../styles/app.css";
 function App_Aside() {
   return (
     <>
-      <div className="m-1 p-1 bg-[#383737] text-[#f8f8f8] flex flex-[80%] flex-col justify-start items-baseline rounded-lg">
+      <div className="m-1 p-1 bg-[#2e2d2d] text-[#f8f8f8] flex flex-[80%] flex-col justify-start items-baseline rounded-lg">
         <p className="m-1.5 p-1.5 text-balance">
-          Pelisplus es un sitio ideal para ver películas y series online.
-          Nuestro sistema se preocupa por tener lo último del cine en calidad
-          full Hd. Para ver una película o serie de televisión puedes usar el
-          buscador en la parte superior o seguir uno de los enlaces de genero o
-          año de estreno en la parte izquierda del sitio, luego el enlace te
-          llevará al reproductor donde solo tienes que dar click en el boton de
-          play. Te invitamos a compartir este genial sitio con tus amigos y
-          familiares.
+          Es un sitio ideal para ver películas y series online. Nuestro sistema
+          se preocupa por tener lo último del cine en calidad full Hd. Para ver
+          una película o serie de televisión puedes usar el buscador en la parte
+          superior o seguir uno de los enlaces de genero o año de estreno en la
+          parte izquierda del sitio, luego el enlace te llevará al reproductor
+          donde solo tienes que dar click en el boton de play. Te invitamos a
+          compartir este genial sitio con tus amigos y familiares.
         </p>
         <div>
           <div className="m-2.5 mr-20 ml-20 flex flex-row justify-between items-center">
-            <h3 className="m-1.5 p-1.5 font-500 flex flex-row flex-start bg-[#555252] text-[#d7dae0] rounded-lg">
-              Vistas
+            <h3 className="m-1.5 p-1.5 font-500 flex flex-row flex-start bg-[#3a3a3a] text-[#d7dae0] rounded-lg cursor-pointer hover:text-[#a2cce7]">
+              Generos
             </h3>
-            <span className="m-1.5 p-1.5 font-500 flex flex-row flex-end bg-[#535050] text-[#d7dae0] rounded-lg">
-              Ver Todo
+            <span className="m-1.5 p-1.5 font-500 flex flex-row flex-end bg-[#3b3a3a] text-[#d7dae0] rounded-lg cursor-pointer hover:text-[#a2cce7]">
+              Ver Todos
             </span>
           </div>
           <ul className="m-1 p-1 flex flex-row justify-center items-center flex-wrap">

@@ -21,6 +21,15 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+#root-container {
+  margin: 0rem;
+  padding: 0rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;

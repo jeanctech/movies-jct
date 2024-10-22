@@ -5,25 +5,15 @@ function App_Nav() {
     <>
       <div className="m-0.5 p-0.5 flex flex-col flex-[50%] justify-between items-center">
         <ul className="m-1 p-1 flex flex-row justify-center items-center bg-[#2b2727] text-slate-300 rounded-lg">
-          <li className="m-1 p-1 cursor-pointer hover:bg-[#423f3f] rounded-lg">
-            Inicio
-          </li>{" "}
+          <li className="m-1 p-1 cursor-pointer hover:text-[#a2cce7]">Inicio</li>{" "}
           <span className="text-[#494848]">|</span>
-          <li className="m-1 p-1 cursor-pointer hover:bg-[#423f3f] rounded-lg">
-            Series
-          </li>{" "}
+          <li className="m-1 p-1 cursor-pointer hover:text-[#a2cce7]">Series</li>{" "}
           <span className="text-[#494848]">|</span>
-          <li className="m-1 p-1 cursor-pointer hover:bg-[#423f3f]  rounded-lg">
-            En Estreno
-          </li>{" "}
+          <li className="m-1 p-1 cursor-pointer hover:text-[#a2cce7]">En Estreno</li>{" "}
           <span className="text-[#494848]">|</span>
-          <li className="m-1 p-1 cursor-pointer hover:bg-[#423f3f]  rounded-lg">
-            Películas
-          </li>{" "}
+          <li className="m-1 p-1 cursor-pointer hover:text-[#a2cce7]">Películas</li>{" "}
           <span className="text-[#494848]">|</span>
-          <li className="m-1 p-1 cursor-pointer hover:bg-[#423f3f]  rounded-lg">
-            Acerca
-          </li>
+          <li className="m-1 p-1 cursor-pointer hover:text-[#a2cce7]">Acerca</li>
         </ul>
         <label className="m-1.5 p-1.5 flex flex-row justify-center items-center bg-[#242121] text-slate-300 rounded-lg border-0">
           <input
