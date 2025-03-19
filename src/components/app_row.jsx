@@ -1,4 +1,4 @@
-import Pages1 from "./pages/pages-1";
+import Pages1 from "./app_aside-1";
 import "../styles/app.css";
 
 function App_Row() {
