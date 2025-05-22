@@ -11,7 +11,8 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <App_Header />
     <div
       id="root-container"
-      className="m-0 p-0 flex flex-row justify-between items-baseline">
+      className="m-0 p-0 flex flex-row justify-between items-baseline"
+    >
       <App_Row />
       <App_Aside />
     </div>

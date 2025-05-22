@@ -1,28 +1,23 @@
-import { useState } from "react";
+// import { useState } from "react";
 import "../styles/app.css";
+import Logotipo from "/logotipo.svg";
 
 function App_Footer() {
-  const [count, setCount] = useState(0);
   return (
-    <>
-      <div
-        id="app-card"
-        className="m-2.5 p-2.5 flex flex-row justify-center items-center"
-      >
-        <button
-          className="m-2.5 p-2.5 bg-[#1b1a1a] rounded-lg"
-          onClick={() => setCount((count) => count + 1)}
-        >
-          Count Is - {count}
-        </button>
-        <p className="m-2.5 p-2.5 bg-[#1A1A21] text-slate-300 rounded-xl">
-          Edit <code>Src/App.jsx</code> and save to test Hmr
-        </p>
-        <p id="read" className="m-2.5 p-2.5 bg-[#1A121A] rounded-lg">
-          Click on the Vite and React Logos to learn more
-        </p>
-      </div>
-    </>
+        <>
+          <footer id="app_row" className="m-1 p-1 bg-[#2b2727] text-[#f8f8f8] flex flex-[80%] flex-row justify-between items-center rounded-lg">
+            <br />
+            <span className="m-1 p-1 text-[17px] inline flex-row justify-between items-center">
+              <strong>©2024</strong> -{" "}
+              <small>
+                <strong>JeanCarlos Jimenez</strong>
+              </small>{" "}
+              - <small>@jeanctech</small> -{" "}
+              <strong>Todos los derechos reservados.</strong>
+            </span>
+            <img id="app_row" src={Logotipo} alt="Logotipo-Jc" width={55} className="m-0.3 p-0.3 rounded-lg"/>
+          </footer>
+        </>
   );
 }
 
