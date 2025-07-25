@@ -1,16 +1,19 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Mooli&display=swap");
+
+@import "tailwindcss";
 
 :root {
   margin: 1.5rem;
   padding: 1.5rem;
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
+  font-family: "Mooli", sans-serif;
   font-weight: 400;
+  font-style: normal;
+  line-height: 1.5;
+
   color-scheme: light dark;
-  color: #ffffffde;
-  background-color: #242424;
+  color: #fffaf3;
+  background-color: #191724;
+
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -28,11 +31,4 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: baseline;
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
 }
