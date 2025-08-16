@@ -11,7 +11,7 @@ function App_Header() {
             id="app_header_h1"
             className="m-1.5 p-1.5 text-[#d7827e] font-bold"
           >
-            movies-jct
+            Movies-Jct
           </h1>
           <a href="/">
             <img

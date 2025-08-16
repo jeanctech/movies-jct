@@ -25,13 +25,13 @@
   padding: 0.2rem;
   margin: 0.2rem;
   border-radius: 0.5rem;
-  border: #393557 solid 1px;
+  border: #272442 solid 1px;
 }
 
 #app_nav_label {
   border-radius: 0.2em;
-  background-color: #1e1c31;
-  border: #2b2842 solid 1px;
+  background-color: #191724;
+  border: #232135 solid 1px;
 }
 
 #app_aside,
@@ -51,12 +51,13 @@ footer {
   border: #2d294e solid 1px;
 }
 
-#app_nav_button:hover {
-  background-color: #423f3f;
+#app_nav_button:hover, #app_div_row:hover {
+  color: #a2cce7;
+  background-color: #03284171;
 }
 
 #img:hover {
-  filter: grayscale(80%);
+  filter: drop-shadow(0 0 0.5em #f6c177) brightness(1.2);
 }
 
 #app_header_h1 {
