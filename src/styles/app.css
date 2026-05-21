@@ -51,7 +51,8 @@ footer {
   border: #2d294e solid 1px;
 }
 
-#app_nav_button:hover, #app_div_row:hover {
+#app_nav_button:hover,
+#app_div_row:hover {
   color: #a2cce7;
   background-color: #03284171;
 }
