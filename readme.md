@@ -1,39 +1,62 @@
-# > movies-jct 🚀
+# 🚀 docs-jct.web
 
-> Learn Functions as if you were in the WEB.
-> No frameworks, no black magic — just pure code.
-> `echo "Let's go nerd mode 🧠"`
+> A high-performance, framework-less web directory and resource index.  
+> Built with pure code, zero black magic, and maximum efficiency.
 
-## 📁 ./content
+```markdown
+<div align="center">
+  <code style="color: #00ffcc; font-size: 1.1em;">console.log("Let's go nerd mode 🧠");</code>
+</div>
+```
 
-* [Home -](/)
-* [Movies Official](/)
-* [Manual in Spanish](/)
+## ⚡ Tech Stack & Environment
 
-## 🔗 ./resources
+An agile, lightweight ecosystem selected for raw development speed and modern web performance:
 
-* [30 days of Functions](/)
-* [Game to learn Functions](/)
-* [Visual Studio Code](/)
-* [Tool-1](/)
-* [Tool-2](/)
-* [Tool-3](/)
+| Core Technologies | Environment & Tooling |
+| :--- | :--- |
+| ⚡ **[Vue](/)** — Cyberpunk reactivity | 💻 **[Visual Studio Code](/)** — Core Editor |
+| 📦 **[Vite](/)** — Next-gen frontend tooling | 📟 **[Terminal Microsoft](/)** — CLI Power |
+| 🍞 **[Bun](/)** — Ultra-fast JS runtime | 🛸 **[jeanctech](/)** — Architect |
 
-## 🧠 ./notes
+## 🗺️ Navigation Index
 
-This repository is like my learning journal.
+### 📁 ./content
 
-I'm not an expert. It's not an official course. I just documented what I learned.
+* **[Home UI](/)** — Main interface router.
 
-I might add more in the future if I get even more advanced with Movies.
+### 🧠 ./notes (Engineering Logs)
 
-## 🌟 ./support
+This repository operates as a live production ledger. Every document, index, and tool is the direct result of practical experimentation, documentation of web standards, and continuous iterations on the `gallery-jct` architecture.  
 
-If it was helpful or you liked it, please leave a star.
-That motivates me more than a cup of coffee ☕✨
+* **Production-Ready:** Built by building, breaking, and optimizing.
+* **Scalable Core:** Designed to evolve as new `docs-jct` modules and advanced functionalities are deployed.
 
-## 🛸 ./author
+## 🛠️ System Architecture
 
-**Author:** `jeanctech`,
-**Style:** `web vibes`, functional documentation, no fear of code.
-**year:** '2026'
+```json
+{
+  "project": "docs-jct",
+  "developer": "jeanctech",
+  "vibe": "pure-web-vibes",
+  "features": [
+    "functional-first",
+    "vanilla-standards",
+    "zero-framework-overhead"
+  ],
+  "fear_of_code": false
+}
+
+```
+
+## 🌟 Support & Telemetry
+
+If this architecture streamlined your workflow or inspired your next project, consider dropping a star to keep the server running.
+
+```bash
++---------------------------+
+| ⭐ Star Repository       |
++---------------------------+
+  [ Running on 100% Coffee ]
+
+```
