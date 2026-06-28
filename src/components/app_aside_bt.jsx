@@ -1,11 +1,11 @@
 import App_Aside_Tp from "./app_aside_tp";
 import "../styles/app.css";
-let img_one = "https://www.pelisplushd.ms/poster/blue-beetle.jpg";
+let img_one = "https://image.tmdb.org/t/p/w200/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg";
 let img_two = "https://image.tmdb.org/t/p/w200/83sGKvCv2T2CulYbd40Aeduc7n2.jpg";
-let img_three = "https://www.pelisplushd.ms/poster/indiana-jones-y-el-dial-del-destino.jpg";
+let img_three = "https://image.tmdb.org/t/p/w200/diEz9JG1UHEDTN0Yeri5sJZD7PL.jpg";
 let img_four = "https://image.tmdb.org/t/p/w200/peIB7KBBrqW0JsCLQBt9ChEtZ7m.jpg";
 let img_five = "https://hackstore2.com/wp-content/uploads/thumbs/c02cd78b36a40396482ff62024b91848_hd.webp";
-let img_six = "https://www.pelisplushd.ms/poster/rapidos-y-furiosos-x.jpg";
+let img_six = "https://image.tmdb.org/t/p/w200/oaspw8GHJHGJRDvVVERmt8iDb5K.jpg";
 let img_seven = "https://hackstore2.com/wp-content/uploads/thumbs/52012d28d631ee433533c0bb4260b475_hd.webp";
 let img_eight = "https://www.bajarpelisgratis.com/wp-content/uploads/2023/07/Flash-2023-228x331.jpg";
 let img_nine = "https://www.bajarpelisgratis.com/wp-content/uploads/2023/08/Megalodon-2-228x331.jpg";

@@ -1,9 +1,9 @@
 import "../styles/app.css";
 let img_one = "https://hackstore2.com/wp-content/uploads/thumbs/b6fc41016425769c19f9908c3d47ebe9_hd.webp";
 let img_two = "https://hackstore2.com/wp-content/uploads/thumbs/fb4f6a73afbcbc0872b41bdbcd5a84a0_hd.webp";
-let img_three = "https://www.pelisplushd.ms/poster/barbie.jpg";
-let img_four = "https://www.pelisplushd.ms/poster/oppenheimer.jpg";
-let img_five = "https://www.pelisplushd.ms/poster/la-red-social.jpg";
+let img_three = "https://image.tmdb.org/t/p/w200/rUdnnVcmo1AOcfanEbU4b2f2QFP.jpg";
+let img_four = "https://image.tmdb.org/t/p/w200/fXlPJpyxlbFRz0WXhQDoFdYBfXq.jpg";
+let img_five = "https://image.tmdb.org/t/p/w200/3KHGWvWDfMa8enQqezGim3aMBQw.jpg";
 let link_zero = "https://reactjs.dev";
 
 function App_Row_Lf() {

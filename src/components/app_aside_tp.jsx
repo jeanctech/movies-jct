@@ -1,13 +1,13 @@
 import "../styles/app.css";
-let img_one = "https://www.pelisplushd.ms/poster/el-juego-bonito.jpg";
+let img_one = "https://image.tmdb.org/t/p/w200/fWWfKcQDldLgHQwXWakfE16D5vr.jpg";
 let img_two = "https://hackstore2.com/wp-content/uploads/thumbs/52d8c81df32a62a5cce41414e8454fa2_hd.webp";
-let img_three = "https://www.pelisplushd.ms/poster/ghostbusters-apocalipsis-fantasma.jpg";
+let img_three = "https://image.tmdb.org/t/p/w200/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg";
 let img_four = "https://upload.wikimedia.org/wikipedia/en/7/71/Ride_On_2023.png";
-let img_five = "https://www.pelisplushd.ms/poster/super-mario-bros-la-pelicula.jpg";
-let img_six = "https://www.pelisplushd.ms/poster/gato-con-botas-el-ultimo-deseo.jpg";
+let img_five = "https://image.tmdb.org/t/p/w200/fwPHcDFhnUI12e0sCkEZb9xZmgG.jpg";
+let img_six = "https://image.tmdb.org/t/p/w200/5L2RDnTrPX7RNBfS7CblIN0WiAZ.jpg";
 let img_seven = "https://hackstore2.com/wp-content/uploads/thumbs/56ad42f78c97da3a31dd5afb2ba93cfa_hd.webp";
-let img_eight = "https://www.pelisplushd.ms/poster/madame-web.jpg";
-let img_nine = "https://www.pelisplushd.ms/poster/bob-marley-la-leyenda.jpg";
+let img_eight = "https://image.tmdb.org/t/p/w200/iZ1499F6hYxDxiqioy8oSUaxipG.jpg";
+let img_nine = "https://image.tmdb.org/t/p/w200/d0PeqfICHgKnQ2f8YxyRJAg62fK.jpg";
 let img_teen = "https://hackstore2.com/wp-content/uploads/thumbs/fabb833a55c9b4e679572148b7806780_hd.webp";
 let links = "https://reactjs.dev";
 

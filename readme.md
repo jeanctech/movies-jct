@@ -1,62 +1,34 @@
-# 🚀 docs-jct.web
+# > Movies-Jct 🚀
 
-> A high-performance, framework-less web directory and resource index.  
-> Built with pure code, zero black magic, and maximum efficiency.
+> Learn Functions as if you were in the WEB.
+> No frameworks, no black magic — just pure code.
+> `echo "Let's go nerd mode 🧠"`
 
-```markdown
-<div align="center">
-  <code style="color: #00ffcc; font-size: 1.1em;">console.log("Let's go nerd mode 🧠");</code>
-</div>
-```
+## 📁 ./content
 
-## ⚡ Tech Stack & Environment
+* [Home -](/)
 
-An agile, lightweight ecosystem selected for raw development speed and modern web performance:
+## 🔗 ./resources
 
-| Core Technologies | Environment & Tooling |
-| :--- | :--- |
-| ⚡ **[Vue](/)** — Cyberpunk reactivity | 💻 **[Visual Studio Code](/)** — Core Editor |
-| 📦 **[Vite](/)** — Next-gen frontend tooling | 📟 **[Terminal Microsoft](/)** — CLI Power |
-| 🍞 **[Bun](/)** — Ultra-fast JS runtime | 🛸 **[jeanctech](/)** — Architect |
+* [Screens-1](/)
+* [Screens-2](/)
+* [Screens-3](/)
 
-## 🗺️ Navigation Index
+## 🧠 ./notes
 
-### 📁 ./content
+This repository is like my learning journal.
 
-* **[Home UI](/)** — Main interface router.
+I'm not an expert. It's not an official course. I just documented what I learned.
 
-### 🧠 ./notes (Engineering Logs)
+I might add more in the future if I get even more advanced with Movies.
 
-This repository operates as a live production ledger. Every document, index, and tool is the direct result of practical experimentation, documentation of web standards, and continuous iterations on the `gallery-jct` architecture.  
+## 🌟 ./support
 
-* **Production-Ready:** Built by building, breaking, and optimizing.
-* **Scalable Core:** Designed to evolve as new `docs-jct` modules and advanced functionalities are deployed.
+If it was helpful or you liked it, please leave a star.
+That motivates me more than a cup of coffee ☕✨
 
-## 🛠️ System Architecture
+## 🛸 ./author
 
-```json
-{
-  "project": "docs-jct",
-  "developer": "jeanctech",
-  "vibe": "pure-web-vibes",
-  "features": [
-    "functional-first",
-    "vanilla-standards",
-    "zero-framework-overhead"
-  ],
-  "fear_of_code": false
-}
-
-```
-
-## 🌟 Support & Telemetry
-
-If this architecture streamlined your workflow or inspired your next project, consider dropping a star to keep the server running.
-
-```bash
-+---------------------------+
-| ⭐ Star Repository       |
-+---------------------------+
-  [ Running on 100% Coffee ]
-
-```
+**Author:** `jeanctech`,
+**Style:** `web vibes`, functional documentation, no fear of code.
+**year:** '2025'
